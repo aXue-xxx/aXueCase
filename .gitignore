@@ -1,0 +1,21 @@
+# 编译产物
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+
+# 临时文件
+*.tmp
+Thumbs.db
